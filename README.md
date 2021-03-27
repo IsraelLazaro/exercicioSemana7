@@ -16,9 +16,6 @@ Branches remotos
 
 
 ### CONTRIBUIÇÃO
-### ![Paulo Freitas](https://github.com/paulofreitasnt)
+### [Paulo Freitas](https://github.com/paulofreitasnt)
 
-  
-  
- 
-  * Professor da disciplina Gerência de Configuração e Mudanças no curso de Análise e Desenvolvimento de Sistemas - ADS no campus do IFPB 
+ Professor da disciplina Gerência de Configuração e Mudanças no curso de Análise e Desenvolvimento de Sistemas - ADS no campus do IFPB 
